@@ -13,7 +13,7 @@ const PP_PKWT = 'Peraturan Pemerintah Nomor 35 Tahun 2021 tentang Perjanjian Ker
 const PP_SMK3 = 'Peraturan Pemerintah Nomor 50 Tahun 2012 tentang Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja';
 const PM_MUTU = 'Peraturan Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi Nomor 53 Tahun 2023 tentang Penjaminan Mutu Pendidikan Tinggi';
 const PM_DOSEN = 'Peraturan Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi Nomor 44 Tahun 2024 tentang Profesi, Karier, dan Penghasilan Dosen';
-const KMA = 'Keputusan Menteri Agama Republik Indonesia Nomor ______ Tahun 2023 tentang Izin Pendirian Sekolah Tinggi Ekonomi Islam Fithrah Insani';
+const KMA = 'Keputusan Direktur Jenderal Pendidikan Islam Kementerian Agama Republik Indonesia Nomor 1137 Tahun 2023 tentang Izin Perubahan Nama, Pindah Alamat, dan Alih Kelola STEI Ar-Risalah menjadi STEI Fithrah Insani';
 const AKTA = 'Akta Pendirian Yayasan Fithrah Insani Indonesia Nomor ______ tanggal ______ beserta perubahannya, yang telah disahkan dengan Keputusan Menteri Hukum dan Hak Asasi Manusia Nomor ______';
 const STATUTA = 'Statuta Sekolah Tinggi Ekonomi Islam Fithrah Insani Revisi Tahun 2024';
 const SK_KETUA = 'Keputusan Pengurus Yayasan Fithrah Insani Indonesia Nomor ______ tentang Pengangkatan Ketua Sekolah Tinggi Ekonomi Islam Fithrah Insani';
@@ -610,7 +610,7 @@ module.exports = [
   ],
   mengingat: yayasan(),
   diktum: [
-    { text: 'Menetapkan nama resmi perguruan tinggi adalah "Sekolah Tinggi Ekonomi Islam Fithrah Insani", dengan singkatan resmi "STEI Fithrah Insani" atau "STEI FI", sesuai dengan Keputusan Menteri Agama tentang Izin Pendirian.' },
+    { text: 'Menetapkan nama resmi perguruan tinggi adalah "Sekolah Tinggi Ekonomi Islam Fithrah Insani", dengan singkatan resmi "STEI Fithrah Insani" atau "STEI FI", sesuai dengan Keputusan Direktur Jenderal Pendidikan Islam Kementerian Agama Nomor 1137 Tahun 2023.' },
     { text: 'Nama sebagaimana dimaksud dalam Diktum KESATU wajib digunakan secara seragam dalam seluruh dokumen resmi, termasuk surat keputusan, ijazah, transkrip, laman, dan media publikasi.' },
     { text: 'Logo, spesifikasi kop surat, serta jenis, pemegang, dan tata penggunaan cap/stempel ditetapkan sebagaimana tercantum dalam Lampiran.' },
     { text: 'Setiap penggunaan cap/stempel institusi dicatat dalam buku log penggunaan stempel yang memuat tanggal, jenis dokumen, nomor dokumen, dan nama petugas.' },
@@ -639,7 +639,7 @@ module.exports = [
         ['5', 'Stempel Program Studi Perbankan Syariah', 'Dokumen akademik program studi', 'Staf administrasi prodi'],
         ['6', 'Stempel Bagian Keuangan "LUNAS"', 'Kuitansi dan bukti pembayaran', 'Bendahara Penerimaan'],
       ] } },
-      { note: 'Sebelum ditetapkan, ejaan nama pada Diktum KESATU wajib dicocokkan dengan naskah Keputusan Menteri Agama tentang Izin Pendirian.' },
+      { note: 'Ejaan "Fithrah" mengikuti Keputusan Direktur Jenderal Pendidikan Islam Nomor 1137 Tahun 2023 sebagaimana dikutip dalam SK Rencana Strategis Nomor 421.4/001/STEI.FI/II/2024. Cocokkan kembali dengan naskah asli sebelum ditetapkan.' },
     ] },
   ],
 },
